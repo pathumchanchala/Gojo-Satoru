@@ -1,3 +1,115 @@
-[
-  Session id here
+[{
+
+ "Debug info": "+94742304871",
+
+ "Device ID": 0,
+
+ "Description": "2.22.10.73",
+
+ "Version": "2.22.10.73",
+
+ "App": "com.whatsapp",
+
+ "MDEnabled": true,
+
+ "HasMdCompanion": false,
+
+ "LC": "US",
+
+ "LG": "en",
+
+ "Context": "blocked +94712204168",
+
+ "Carrier": "DIALOG",
+
+ "Manufacturer": "motorola",
+
+ "Model": "Moto G (5) Plus",
+
+ "CPU ABI": "armeabi-v7a",
+
+ "OS": "8.1.0",
+
+ "Socket Conn": "UP",
+
+ "Radio MCC-MNC": "413-02",
+
+ "SIM MCC-MNC": "413-02",
+
+ "Free Space Built-In": "5231394816 (5.23 GB)",
+
+ "Free Space Removable": "5231390720 (5.23 GB)",
+
+ "Smb count": "2573",
+
+ "Ent count": "6",
+
+ "CCode": "94 742304871",
+
+ "Target": "release",
+
+ "Product": "potter",
+
+ "Device": "potter",
+
+ "Build": "OPSS28.85-17-6",
+
+ "Board": "msm8953",
+
+ "Kernel": "Unknown release unknown version",
+
+ "Connection": "M.O.B.I.L.E. (L.T.E.)",
+
+ "Device ISO8601": "2022-06-07 21:27:24.529+0530",
+
+ "Phone Type": "G.S.M.",
+
+ "Network Type": "L.T.E.",
+
+ "Missing Permissions": "android.permission.USE_BIOMETRIC, android.permission.INSTALL_SHORTCUT, android.permission.SCHEDULE_EXACT_ALARM, android.permission.REQUEST_INSTALL_PACKAGES, android.permission.FOREGROUND_SERVICE, android.permission.USE_FULL_SCREEN_INTENT, com.sec.android.provider.badge.permission.READ, com.sec.android.provider.badge.permission.WRITE, com.htc.launcher.permission.READ_SETTINGS, com.htc.launcher.permission.UPDATE_SHORTCUT, com.sonyericsson.home.permission.BROADCAST_BADGE, com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, com.huawei.android.launcher.permission.READ_SETTINGS, com.huawei.android.launcher.permission.WRITE_SETTINGS, com.huawei.android.launcher.permission.CHANGE_BADGE, com.facebook.services.identity.FEO2",
+
+ "Architecture": "armv7l",
+
+ "Diagnostic Codes": "FE-GDE FE-GDC FE-VIDC FE-SMSRTV ",
+
+ "Network metered": "182:true",
+
+ "Network restricted": "182:false",
+
+ "Data roaming": "false",
+
+ "Tel roaming": "false",
+
+ "last tslog call id": "",
+
+ "ABprops hash state": "false",
+
+ "Serverprops hash state": "false",
+
+ "Video transcode": "supported",
+
+ "anid": "d3101290-b919-4a17-8a2a-bbcd298659c0",
+
+ "XPMigrated": "no",
+
+ "Datacenter": "frc",
+
+ "Screen reader": false,
+
+ "Fingerprint eligible": true,
+
+ "Last local backup time": "2022-06-07 02:46:31.000+0530",
+
+ "Google account added": false,
+
+ "Groups media visibility": "default",
+
+ "Individual media visibility": "off",
+
+ "In scoped mode": false,
+
+ "Has unexpected .nomedia": false
+
+}
+
 ]
