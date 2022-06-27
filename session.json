@@ -1,3 +1,125 @@
-[
-  Session id here
+[{
+
+ "Debug info": "+94714892390",
+
+ "Device ID": 0,
+
+ "Description": "2.22.9.78",
+
+ "Version": "2.22.9.78",
+
+ "App": "com.whatsapp.w4b",
+
+ "MDEnabled": true,
+
+ "HasMdCompanion": false,
+
+ "LC": "US",
+
+ "LG": "en",
+
+ "Context": "blocked +94712204168",
+
+ "Carrier": "Dialog",
+
+ "Manufacturer": "motorola",
+
+ "Model": "Moto G (5) Plus",
+
+ "CPU ABI": "armeabi-v7a",
+
+ "OS": "8.1.0",
+
+ "Socket Conn": "SC\/XC",
+
+ "Radio MCC-MNC": "413-02",
+
+ "SIM MCC-MNC": "413-02",
+
+ "Free Space Built-In": "5252575232 (5.25 GB)",
+
+ "Free Space Removable": "5252575232 (5.25 GB)",
+
+ "Smb count": "497",
+
+ "Ent count": "3",
+
+ "Away state": "0",
+
+ "Away start time": "0",
+
+ "Away end time": "0",
+
+ "Greeting message on": "true",
+
+ "CCode": "94 714892390",
+
+ "Target": "release",
+
+ "Product": "potter",
+
+ "Device": "potter",
+
+ "Build": "OPSS28.85-17-6",
+
+ "Board": "msm8953",
+
+ "Kernel": "Unknown release unknown version",
+
+ "Connection": "M.O.B.I.L.E. (L.T.E.)",
+
+ "Device ISO8601": "2022-06-07 21:35:32.282+0530",
+
+ "Phone Type": "G.S.M.",
+
+ "Network Type": "L.T.E.",
+
+ "Missing Permissions": "android.permission.USE_BIOMETRIC, android.permission.INSTALL_SHORTCUT, android.permission.SCHEDULE_EXACT_ALARM, android.permission.REQUEST_INSTALL_PACKAGES, android.permission.FOREGROUND_SERVICE, android.permission.USE_FULL_SCREEN_INTENT, com.sec.android.provider.badge.permission.READ, com.sec.android.provider.badge.permission.WRITE, com.htc.launcher.permission.READ_SETTINGS, com.htc.launcher.permission.UPDATE_SHORTCUT, com.sonyericsson.home.permission.BROADCAST_BADGE, com.sonymobile.home.permission.PROVIDER_INSERT_BADGE, com.huawei.android.launcher.permission.READ_SETTINGS, com.huawei.android.launcher.permission.WRITE_SETTINGS, com.huawei.android.launcher.permission.CHANGE_BADGE",
+
+ "Architecture": "armv7l",
+
+ "Diagnostic Codes": "FE-GDE FE-GDC FE-VIDC FE-SMSRTV ",
+
+ "Network metered": "184:true;186:true",
+
+ "Network restricted": "184:false;186:false",
+
+ "AutoConf status": "autoconf_server_enabled",
+
+ "Data roaming": "false",
+
+ "Tel roaming": "false",
+
+ "last tslog call id": "",
+
+ "ABprops hash state": "false",
+
+ "Serverprops hash state": "false",
+
+ "Video transcode": "supported",
+
+ "anid": "7abdda50-811e-49fa-bb14-642d91533bc4",
+
+ "XPMigrated": "no",
+
+ "Datacenter": "nao",
+
+ "Screen reader": false,
+
+ "Fingerprint eligible": true,
+
+ "Last local backup time": "2022-06-07 02:47:37.000+0530",
+
+ "Google account added": false,
+
+ "Groups media visibility": "default",
+
+ "Individual media visibility": "off",
+
+ "In scoped mode": false,
+
+ "Has unexpected .nomedia": false
+
+}
+
 ]
