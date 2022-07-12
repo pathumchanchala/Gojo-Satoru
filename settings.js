@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'නොල'
+global.owner = ['94778716913']
+global.premium = ['94778716913']
+global.ownernomer = '94778716913'
+global.ownername = '🐦pathum chanchala'
+global.botname = 'pathum bot
 global.footer = '©pathum.'
 global.ig = 'https://github.com/github'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/'
 global.myweb = 'https://youtube.com/'
-global.packname = 'hh'
+global.packname = 'pathum bot'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
